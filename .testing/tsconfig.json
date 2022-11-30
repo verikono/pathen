@@ -1,0 +1,4 @@
+{
+	"extends": "../tsconfig.json",
+	"files": [ "./inline.vitest.mts", "tools.inline.vitest.mts" ]
+}

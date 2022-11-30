@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"lib": [ "ESNext" ],
+		"module": "System",
+		"moduleResolution": "NodeNext",
+		"target": "ESNext",
+		"declaration": true,
+		"emitDeclarationOnly": true,
+		"declarationDir": null,
+		"outFile": "../../dist/index.d.ts"
+	},
+	"files": [ "./esbuild.mts" ],
+	"include": [
+		"../../source/**/*.mts"
+	]
+}
